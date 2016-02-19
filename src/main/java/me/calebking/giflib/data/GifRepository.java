@@ -3,8 +3,10 @@ package me.calebking.giflib.data;
 import me.calebking.giflib.model.Gif;
 import org.springframework.stereotype.Component;
 
+
 import java.time.LocalDate;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 /**
